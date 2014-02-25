@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: |cff18AA18!MinimalUI Config|r
+## Notes:
+## Author: Pat
+
+Config.lua

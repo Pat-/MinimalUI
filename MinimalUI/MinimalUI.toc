@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: |cff18AA18MinimalUI|r
+## Notes: Minimalistic User Interface Tukui edit.
+## Credits: 
+## Version: 1.0
+## Author: Pat
+## SavedVariablesPerCharacter: MiniUICharData
+## RequiredDeps: !MinimalUI_Config, Tukui
+
+MinimalUI.xml
